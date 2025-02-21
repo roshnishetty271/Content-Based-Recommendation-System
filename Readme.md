@@ -29,8 +29,10 @@ python content.py "I love horror and thriller movies"
 Output:
 🎬 Recommended Movies:
 
-        Title  Similarity Score
+
+        Title       Similarity Score
 A Quiet Place          0.314493
+
    Hereditary          0.153930
  The Exorcist          0.148988
       Get Out          0.147663
