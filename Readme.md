@@ -31,9 +31,12 @@ Output:
 
 
         Title       Similarity Score
-A Quiet Place          0.314493
+A Quiet Place             0.314493
 
-   Hereditary          0.153930
- The Exorcist          0.148988
-      Get Out          0.147663
-    Insidious          0.144188
+   Hereditary             0.153930
+   
+ The Exorcist             0.148988
+ 
+      Get Out             0.147663
+      
+    Insidious             0.144188
