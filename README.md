@@ -57,7 +57,6 @@ Build a **content-based recommendation system** that, given a **short text descr
    - Convert text data to vectors (e.g., TF-IDF).  
    - Implement a function to compute similarity between the user’s query and each item’s description.  
    - Return the top matches.
-   - Salary expectation per month (Mandatory)
 
 
 3. **Deadline**  
